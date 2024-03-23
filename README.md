@@ -1,2 +1,4 @@
 # Python-for-spamming
-untuk latihan saja
+
+
+Hanya untuk belajar
