@@ -1,0 +1,8 @@
+import pyautogui,time
+time.sleep(5)
+
+# Dapatkan posisi kursor mouse saat ini
+x, y = pyautogui.position()
+
+pyautogui.click(x, y)
+print(f'Posisi kursor mouse saat ini adalah: X={x}, Y={y}')
